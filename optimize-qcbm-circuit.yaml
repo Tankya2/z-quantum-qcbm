@@ -46,7 +46,6 @@ spec:
     - s3-bucket: quantum-engine
     - s3-key: projects/z-quantum-qcbm/qcbm-opt
     - docker-image: 'z-quantum-default'
-    - docker-tag: 'latest'
 
   templates:
 
